@@ -1,7 +1,7 @@
 {
   "name": "google-clone",
   "version": "0.1.0",
-  "homepage": "https://github.com/DrVicki/google-clone-react-project-main/react-gh-pages",
+  "homepage": "https://github.com/DrVicki/google-clone-react-project-main-gh-pages",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
